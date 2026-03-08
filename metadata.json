@@ -1,0 +1,7 @@
+{
+  "name": "MedHealth AI",
+  "description": "An AI-first health and fitness app for weight loss, muscle gain, fasting, and nutrition coaching. It features a conversational AI coach and a 'Snap & Analyze' food logger.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
